@@ -613,7 +613,7 @@ The project demonstrates how architectural decisions such as **resource sharing 
 
 ## Author
 
-**Arbaz Ali**
+**Mohammed Arbaz Ali**
 
 Digital VLSI / ASIC Design Project
 
